@@ -1,3 +1,24 @@
+# Prefacio a la nueva edición
+
+*La voz como puente*
+
+Hace ya más de quince años que escribí las primeras palabras de este trabajo. En aquel entonces, no imaginaba que el sonido —tan cotidiano, tan invisible— acabaría revelándose como una vía directa hacia lo más íntimo del ser. Empecé siguiendo las pautas que me enseñaban, como se sigue el compás en una partitura desconocida. Poco a poco, el rito comenzó a hablarme. No con conceptos, sino con vibración.
+
+Esta obra nació de la necesidad de comprender qué ocurre cuando recitamos, cuando golpeamos el mokugyō, cuando dejamos que la voz se funda con la respiración y la respiración con el gesto. Surgió como una búsqueda: ¿qué misterio encierra esa resonancia que sentimos en las ceremonias? ¿Qué vínculo secreto une la vibración del tambor con el silencio de zazen?
+
+Hoy, al volver sobre este texto, no me propongo corregir lo que fui, sino escucharlo con otros oídos. El tiempo ha pasado, la práctica se ha asentado, la ciencia ha avanzado, y también yo he cambiado. He vivido el proceso de soltar la coraza muscular desde la psicoterapia corporal, he afinado mi escucha con los cantos ceremoniales, he sentido cómo el cuerpo se vuelve instrumento cuando la voz brota libre. Y he acompañado a otras personas en ese mismo viaje, hecho de temblores, vacíos, memorias y redención.
+
+Este libro es un entretejido de caminos: el de la tradición budista —desde el chamanismo hasta Dōgen y Keizan—, el de la voz como herramienta de sanación, el de la vibración como lenguaje universal, y el mío propio como buscador y practicante. Cada página resuena con ecos antiguos y con preguntas actuales. No busca ofrecer respuestas definitivas, sino dejarse atravesar por el asombro.
+
+Quizá lo esencial no sea tanto lo que decimos, sino desde dónde lo decimos. La voz, cuando nace desde el centro del pecho, cuando se entrega con conciencia y se afina con la intención, puede convertirse en puente. Un puente entre cuerpo y mente. Entre uno mismo y los demás. Entre lo finito y lo infinito.
+
+Que este libro vibre en quien lo lea.
+
+**Samuel Daizan Soriano**  
+*Alicante, primavera de 2025*
+
+
+
 # Introducción
 
 Si partimos de la premisa de que todo en el universo está compuesto por átomos, y que estos, a su vez, están formados por partículas en constante vibración, entonces debemos aceptar que no existe verdadera solidez. Incluso aquello que percibimos como compacto y estable está, en su esencia, vibrando. La materia es vibración organizada, y dependiendo de cómo estas partículas se agrupan y se relacionan, surgen diferentes tipos de energía, frecuencia y resonancia. Así se conforma una realidad tejida por ritmos, ciclos y pulsaciones.
