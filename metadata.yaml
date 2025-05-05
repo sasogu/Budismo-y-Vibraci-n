@@ -1,7 +1,9 @@
-title: "Toma de Tierra"
+title: "Budismo y Vibración"
 author: "Samuel Daizan Soriano"
 lang: es
 fontsize: 11pt
 mainfont: "Noto Serif"
-geometry: paperwidth=13.97cm, paperheight=21.59cm, inner=1.8cm, outer=1.6cm, top=2.2cm, bottom=2.2cm, bindingoffset=0.8cm, twoside
-
+geometry: paperwidth=5in, paperheight=8in, inner=0.8in, outer=0.8in, top=1in, bottom=1in, bindingoffset=0.5in, twoside
+indent: true
+header-includes:
+  - \usepackage{indentfirst} # Habilita sangría en el primer párrafo tras un título
