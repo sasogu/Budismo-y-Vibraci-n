@@ -1,0 +1,8 @@
+pandoc $(cat orden.txt) -o libro.pdf --metadata-file=metadata.yaml --pdf-engine=xelatex --template=plantilla_zen.tex
+
+
+
+«»
+
+
+pandoc $(cat orden.txt) -o libro.pdf --metadata-file=metadata.yaml  --pdf-engine=xelatex --toc -f markdown+raw_tex

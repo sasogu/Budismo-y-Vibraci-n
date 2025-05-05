@@ -1,0 +1,90 @@
+
+\documentclass[$if(fontsize)$$fontsize$$else$11pt$endif$]{article}
+
+% Carga de paquetes básicos
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0
+  \usepackage[utf8]{inputenc}
+\else
+  \usepackage{fontspec}
+  \defaultfontfeatures{Ligatures=TeX}
+  $if(mainfont)$
+    \setmainfont{$mainfont$}
+  $endif$
+\fi
+
+$if(geometry)$
+\usepackage[$geometry$]{geometry}
+$else$
+\usepackage{geometry}
+\geometry{a4paper, margin=2.5cm}
+$endif$
+
+\usepackage{amsmath, amssymb}
+\usepackage{graphicx}
+\usepackage{setspace}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage[hidelinks]{hyperref}
+%\usepackage{xcolor}
+\usepackage{footnote}
+\usepackage{titlesec}
+
+% Tipografía por defecto (si no hay mainfont)
+\ifxetex
+  \usepackage{libertinus}
+\fi
+
+% Definición de tightlist para evitar errores
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Interlineado
+\onehalfspacing
+
+% Encabezado y pie de página
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\textit{Toma de tierra}}
+\lhead{\textit{Samuel Daizan Soriano}}
+\rfoot{\thepage}
+
+% Colores suaves
+% \definecolor{zenblue}{RGB}{70, 130, 180}
+% \hypersetup{
+ %    colorlinks=true,
+ %    linkcolor=zenblue,
+ %    urlcolor=zenblue,
+ %    citecolor=zenblue
+% }
+
+% Formato de títulos color
+%\titleformat{\section}{\large\bfseries\color{zenblue}}{\thesection}{1em}{}
+%\titleformat{\subsection}{\normalsize\bfseries\color{zenblue}}{\thesubsection}{1em}{}
+
+% Formato de títulos
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}{\normalsize\bfseries}{\thesubsection}{1em}{}
+
+
+% Comando para epígrafes
+\newcommand{\epigrafe}[2]{
+    \begin{flushright}
+    \itshape
+    ``#1''\\
+    --- #2
+    \end{flushright}
+}
+
+% Documento
+\begin{document}
+$if(title)$
+\begin{center}
+    {\Huge \bfseries $title$}\\[1ex]
+    {\large $author$}\\[4ex]
+\end{center}
+$endif$
+
+$body$
+
+\end{document}
