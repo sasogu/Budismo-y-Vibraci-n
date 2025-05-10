@@ -1,0 +1,1 @@
+{"rule":"SPANISH_WORD_REPEAT_BEGINNING_RULE","sentence":"^\\QTu verdadera vida es la vida de la Sangha.\\E$"}

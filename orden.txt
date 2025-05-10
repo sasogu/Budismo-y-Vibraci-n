@@ -8,5 +8,7 @@
 07.md
 08.md
 09.md
+10.md
+notas.md
 
 
