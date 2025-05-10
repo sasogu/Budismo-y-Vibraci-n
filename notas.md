@@ -1,0 +1,1 @@
+[^1]: Los cinco agregados (skandhas) son los componentes de la experiencia humana: forma (el cuerpo y lo material), sensación (agradable, desagradable o neutra), percepción (reconocimiento de objetos), formaciones mentales (emociones, impulsos, hábitos) y conciencia (capacidad de conocer). El Buda enseñó que no hay un "yo" aparte de estos procesos interdependientes y cambiantes.

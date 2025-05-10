@@ -3,6 +3,11 @@ author: "Samuel Daizan Soriano"
 lang: es
 fontsize: 11pt
 mainfont: "Noto Serif"
+CJKmainfont: "Noto Serif CJK JP"
+monofont: "Noto Sans Mono"
+monofontoptions: "Scale=0.9"
+fontenc: "T1"
+linestretch: 1.5
 geometry: paperwidth=5in, paperheight=8in, inner=0.8in, outer=0.8in, top=1in, bottom=1in, bindingoffset=0.5in, twoside
 indent: true
 header-includes:

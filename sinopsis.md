@@ -4,7 +4,7 @@
 
 **¿Qué ocurre cuando el cuerpo y la voz se alinean con lo sagrado?**
 
-En este libro íntimo y riguroso, Samuel Daizan Soriano —maestro zen y terapeuta corporal— nos guía a través de un viaje vibrante en el que ciencia, espiritualidad y experiencia se entrelazan. *Budismo y Vibración* explora el poder del sonido en la tradición espiritual de la humanidad, desde los cantos chamánicos hasta la recitación de sutras en la ceremonia Soto Zen, pasando por el mantrayāna, la fisiología de la resonancia y la terapia bioenergética.
+En este libro íntimo y riguroso, Samuel Daizan Soriano —maestro zen y terapeuta corporal— nos guía a través de un viaje vibrante en el que ciencia, espiritualidad y experiencia se entrelazan. *Budismo y Vibración* explora el poder del sonido en la tradición espiritual de la humanidad, desde los cantos chamánicos hasta la recitación de sutras en la ceremonia Soto Zen, pasando por el mantrayana, la fisiología de la resonancia y la terapia bioenergética.
 
 A medio camino entre el ensayo y la memoria, entre la contemplación y el estudio, esta obra es una invitación a escuchar más allá del oído. A redescubrir la voz como herramienta de sanación, como puente entre cuerpo y mente, como instrumento de entrega.
 
